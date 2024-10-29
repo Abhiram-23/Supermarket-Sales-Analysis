@@ -4,7 +4,7 @@ library(corrplot)
 
 
 #Establishing the working directory for the R project within the project folder.
-setwd("C:\\Users\\pabhi\\OneDrive\\Desktop\\fall2023\\INFX-502_R\\Project\\data")
+setwd("add data path")
 getwd()
 
 #Reading the superMarketSales data set
